@@ -2,7 +2,7 @@
 
 A web-based sorting algorithm visualizer that allows you to see how various sorting algorithms work in real-time.
 
-![Sorting Visualizer Screenshot](screenshot.png)
+![Sorting Visualizer Screenshot](./assets/sorting-example.png)
 
 ## Table of Contents
 
@@ -54,11 +54,3 @@ This project includes the following sorting algorithms:
 - **Selection Sort**: Divides the input list into two parts: the sublist of items already sorted and the sublist of items remaining to be sorted. It repeatedly selects the minimum element from the unsorted sublist and moves it to the end of the sorted sublist.
 
 - **Heap Sort**: A comparison-based sorting algorithm that divides the input into a sorted and an unsorted region, and iteratively shrinks the unsorted region by extracting the largest element and moving it to the sorted region.
-
-## Contributing
-
-Contributions to this project are welcome! If you'd like to contribute, please follow the [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
